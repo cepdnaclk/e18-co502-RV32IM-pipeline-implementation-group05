@@ -23,7 +23,7 @@ title: e18-co502-RV32IM-pipeline-implementation-group05
 
 ## Introduction
 
- description of the real world problem and solution, impact
+The aim of this project is to design and implement a pipelined processor which supports RISC-V Instruction Set Architecture. VerilogHDL and Icarus verilog is used to implement this CPU. Gtkwave is used to observe the behaviour of the CPU.
 
 ## Pipeline Datapath
 
