@@ -15,9 +15,10 @@ title: e18-co502-RV32IM-pipeline-implementation-group05
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Pipeline Datapath](#pipeline_datapath)
-3. [Team](#team)
-4. [Supervisors](#supervisors)
-3. [Links](#links)
+3. [Hardware Units] (#hardware_units)
+4. [Team](#team)
+5. [Supervisors](#supervisors)
+6. [Links](#links)
 
 ---
 
@@ -28,6 +29,8 @@ The aim of this project is to design and implement a pipelined processor which s
 ## Pipeline Datapath
 
 .....
+
+## Hardware Units
 
 ## Team
 -  E/18/010 - A.K.D.A.S. Abeywickrama [email](mailto:e18010@eng.pdn.ac.lk)
